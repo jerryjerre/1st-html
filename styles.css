@@ -4,3 +4,11 @@ color: blue;
 align-items: flex-end;
 cursor: crosshair;
 }
+
+caption,table,th, td{
+border: 1px solid;
+color: black;
+width: 100;
+height: 15px;
+border-collapse: collapse;
+    }
